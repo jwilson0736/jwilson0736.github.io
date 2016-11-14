@@ -2,5 +2,9 @@
   font-size: 72px;
   font-style: italic;
   color: #1111de;}
-
+h4 {
+  color: #ffea00;}
+h4+p {
+  color: #ffea00;}
+  
 
