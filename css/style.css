@@ -2,12 +2,11 @@
   font-size: 72px;
   font-style: italic;
   color: #1111de;}
-h4 {
+
+.carousel-caption {
   color: #000000;
   background-color: #ffffff;}
-h4+p {
-  color: #000000;
-  background-color: #ffffff;
-  margin: 0px 0px 0px 0px;}
+
+
   
 
