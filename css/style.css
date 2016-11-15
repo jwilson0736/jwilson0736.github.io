@@ -1,3 +1,4 @@
+
 .page-header {
   font-size: 72px;
   font-style: italic;
@@ -7,6 +8,8 @@
   color: #000000;
   background-color: #ffffff;}
 
+.navbar navbar-default {
+  border-color: #000000;}
 
   
 
